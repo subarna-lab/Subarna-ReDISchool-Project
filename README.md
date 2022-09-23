@@ -1,2 +1,2 @@
-"I am trying to get success in basic commands of git and git hubs. This is a new file to try again. Thanks!!!"
-"This is added into the existing file. "
+"I am trying to get success in basic commands of git and git hubs. This is a new file to try again."
+"I am learning a lot than before but still I have some confusion while pushing code to remote repository (repo), Many Thanks!!!"
